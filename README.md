@@ -5,8 +5,5 @@
   - Natural Language Processing, Computer Vision
 
 ### Stats :muscle:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungbo&layout=compact&theme=tokyonight)  <!-- 더 많은 정보 포함 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seungbo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seungbo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seungbo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungbo&layout=compact&theme=tokyonight)
