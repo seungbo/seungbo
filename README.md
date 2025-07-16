@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/%EC%8A%B9%EB%B3%B4-%EC%9D%B4-450688318/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/%EC%8A%B9%EB%B3%B4-%EC%9D%B4-450688318/))
 
 안녕하세요. 경북소프트웨어마이스터고등학교에 재학중인 학생 개발자 **이승보**입니다.
 
